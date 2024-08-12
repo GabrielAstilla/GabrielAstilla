@@ -1,8 +1,8 @@
 ![Header](https://github.com/user-attachments/assets/de797888-fa3f-4fad-8556-09a5d3f24451)
 
-<center># Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></center>
+<p align="center"># Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></p>
 
-<center>Gabriel Luis Astilla is a Junior Software engineer living in Cavite, Philippines. </center>
+<p align="center">Gabriel Luis Astilla is a Junior Software engineer living in Cavite, Philippines. </p>
 
 ## 🔧 Technologies & Tools
 <div align="center">
