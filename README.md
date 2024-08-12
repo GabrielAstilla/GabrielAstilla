@@ -1,10 +1,3 @@
-![FB COVER](https://github.com/user-attachments/assets/de797888-fa3f-4fad-8556-09a5d3f24451)
-Hello. I'm Gabriel Luis Astilla, currently taking a Bachelor of Science in Computer Science at [Cavite State University](https://cvsu.edu.ph/). I used to do 3D Designing, Game Developing, editing films, music videos, and short clips, and I am an aspiring software engineer.
-
-Visit my Portfolio at https://gabrielastilla.me
-
-Design Portfolio: https://www.behance.net/gabrielastilla
-
 [![Header](https://github.com/user-attachments/assets/de797888-fa3f-4fad-8556-09a5d3f24451)
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -37,5 +30,7 @@ Gabriel Luis Astilla is a Junior Software engineer living in Cavite, Philippines
 ## &#x270d; Profile & Portfolios
 
 Website: https://gabrielastilla.me
+
 Design Portfolio: https://www.behance.net/gabrielastilla
+
 LinkedIn: https://www.linkedin.com/in/gabrielastilla
