@@ -1,8 +1,10 @@
 ![Header](https://github.com/user-attachments/assets/de797888-fa3f-4fad-8556-09a5d3f24451)
 
-# <p align="center">Hello! I'm Gabriel Luis Astilla, a Junior Software Engineer living in Cavite, Philippines. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></p>
+# <p align="center">Hello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></p>
 
-## 🔧 Technologies & Tools
+<p align="center">I'm Gabriel Luis Astilla, a Junior Software Engineer living in Cavite, Philippines.</p>
+
+<h1 align="center">Technologies & Tools</h1>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
