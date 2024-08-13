@@ -2,7 +2,7 @@
 
 # <p align="center">Hello!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></p>
 
-<p align="center">I'm Gabriel Luis Astilla, a Junior Software Engineer living in Cavite, Philippines.</p>
+<p align="center">I'm Gabriel Luis Astilla, a Junior Software Engineer and UI/UX Designer. I love doing web design and I'm currently transitioning to full stack development. I also create 3D models and 3D animation using Blender.</p>
 
 <h1 align="center">Technologies & Tools</h1>
 <div align="center">
