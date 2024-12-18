@@ -25,7 +25,7 @@
 
 ## &#x270d; Profile & Portfolios
 
-Website: https://gabrielastilla.me
+Website: https://gabrielastilla.vercel.app
 
 Design Portfolio: https://www.behance.net/gabrielastilla
 
